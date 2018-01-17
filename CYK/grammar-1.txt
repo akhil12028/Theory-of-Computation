@@ -1,0 +1,9 @@
+S->AP
+P->BC
+C->BQ
+Q->AB
+B->ZZ
+A->a
+B->b
+C->c
+Z->b
